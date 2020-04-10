@@ -1,4 +1,4 @@
-module github.com/dolan-in/dgman
+module github.com/RJKeevil/dgman
 
 require (
 	github.com/dgraph-io/dgo/v200 v200.0.0-20200401175452-e463f9234453
